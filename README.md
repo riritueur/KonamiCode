@@ -1,14 +1,14 @@
-#Konami Code - Team Cookies
-##Utilisation:
+# Konami Code - Team Cookies
+## Utilisation:
 * Depuis les fichiers sur github: Ouvrez simplement index.php et entrez le Konami code.
 * Depuis ce [site](   ) cliquez sur le lien et entrez le Konami code.
 
-#***SPOIL À PARTIR D'ICI***
+# ***SPOIL À PARTIR D'ICI***
 
-##Indice pour l'énigme de l'image:
+## Indice pour l'énigme de l'image:
 Le code est caché *en bas à gauche* de l'image...
 
-##Résolution des énigmes:
+## Résolution des énigmes:
 Puzzle: Si on imagine la grille comme telle:
 1 | 2 | 3
 4 | 5 | 6
