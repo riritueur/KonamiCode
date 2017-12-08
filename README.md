@@ -9,13 +9,13 @@
 Le code est caché *en bas à gauche* de l'image...
 
 ## Résolution des énigmes:
-Puzzle: Si on imagine la grille comme telle:
-1 | 2 | 3
-4 | 5 | 6
-7 | 8 | 9
-Lancez le jeu, puis cliquez dans l'ordre sur les pièces: 2-1-4-5-6-3-2-5-9
-
-Image: Prenez un logiciel de traitement d'images (paint.NET par exemple).
-Utilisez la baguette magique avec une tolérance de 0 dans la partie noire de l'image et vous verrez apparaître un code binaire.
-Celui-ci, traduit en décimal, vous donnera un code ascii qui vous donnera le mot de passe du site internet (tapez alt + nombres trouvés).
+Puzzle: Si on imagine la grille comme telle:<br/>
+1 | 2 | 3 <br/>
+4 | 5 | 6 <br/>
+7 | 8 | 9 <br/>
+Lancez le jeu, puis cliquez dans l'ordre sur les pièces: 2-1-4-5-6-3-2-5-9<br/>
+<br/>
+Image: Prenez un logiciel de traitement d'images (paint.NET par exemple).<br/>
+Utilisez la baguette magique avec une tolérance de 0 dans la partie noire de l'image et vous verrez apparaître un code binaire.<br/>
+Celui-ci, traduit en décimal, vous donnera un code ascii qui vous donnera le mot de passe du site internet (tapez alt + nombres trouvés).<br/>
 Vous obtiendrez LULZ. :)
