@@ -28,6 +28,7 @@ public class GFrame extends JFrame {
 	private App app = new App();
 	private ArrayList<JLabel> labels = new ArrayList<JLabel>();
 	public GFrame that = this;
+	Sound s = new Sound();
 
 	/**
 	 * Launch the application.
@@ -337,6 +338,7 @@ public class GFrame extends JFrame {
 	public void finish() throws InterruptedException{
 		ImageIcon bgg = new ImageIcon(GFrame.class.getResource("ex.gif"));
 		contentPane.removeAll();
+		s.play();
 		JLabel bgf = new JLabel();
 		bgf.setBounds(0,0,998,964);
 		contentPane.add(bgf);
