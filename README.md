@@ -11,9 +11,7 @@ Le code est caché *en bas à gauche* de l'image...
 ##Résolution des énigmes:
 Puzzle: Si on imagine la grille comme telle:
 1 | 2 | 3
----------
 4 | 5 | 6
----------
 7 | 8 | 9
 Lancez le jeu, puis cliquez dans l'ordre sur les pièces: 2-1-4-5-6-3-2-5-9
 
