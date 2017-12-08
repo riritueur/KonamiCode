@@ -1,7 +1,6 @@
 # Konami Code - Team Cookies
 ## Utilisation:
-* Depuis les fichiers sur github: Ouvrez simplement index.php et entrez le Konami code.
-* Depuis ce [site](   ) cliquez sur le lien et entrez le Konami code.
+Depuis les fichiers sur github: Ouvrez simplement index.php et entrez le Konami code.
 
 # ***SPOIL À PARTIR D'ICI***
 
