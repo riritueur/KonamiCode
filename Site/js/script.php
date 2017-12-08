@@ -110,8 +110,7 @@
           });
         }, millisecondsToWait + 100);
       }
-
-      if (next) {
+			if (next) {
         var j = 0;
         for (var i = 0; i < keyy2.length; i++)
           if (keyy2[i] != -1)
@@ -143,7 +142,8 @@
             }, 500);
           });
         }
-      };
-    }
+      }
+		}
+   }
 
 </script>

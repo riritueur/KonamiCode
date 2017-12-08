@@ -35,10 +35,7 @@
                  <p> Le Japon est donc considérer comme un mélange de "modernité et de culture " avec des paysages différents et les dernier gadjets que l'on puisse avoir.
   Certaines idoles françaises comme des youtubeurs en ont fait des vidéo : 
   Ici il s'agit d'une vidéo faite lors d'un voyage à Tokyo par Cyprien alias "Monsieur Dream" selon ses différents pseudo :
-  </p>
-                  <video  controls> 
-                                    <source  src="Images/Cyprien - Le Japon.mp4" type="video/mp4">
-                                    </video>
+							 </p>
                  <br>
              </article>
 
